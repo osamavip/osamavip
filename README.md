@@ -86,9 +86,9 @@ Currently Learning:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Eng_osama&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=osamavip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF" />
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eng_osama&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=FFFFFF" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamavip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=FFFFFF" />
 
 </div>
 
