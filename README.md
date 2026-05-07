@@ -54,46 +54,25 @@
 </a>
 
 </div>
-
 ---
-
 # ⚡ Tech Stack
 
 <div align="center">
-
 ## 👨‍💻 Languages
 
 <img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
-
 ---
-
 ## 🎨 Front-End
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
-
----
-
+--
 ## ⚙️ Back-End & Database
 
 <img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,firebase" />
-
 ---
-
 ## 🛠️ Tools & Platforms
 
 <img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,vscode,docker" />
-
-</div>
-
----
-
-# 📊 GitHub Analytics
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
 
 </div>
 
