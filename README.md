@@ -23,7 +23,7 @@ Interests:
 Currently Learning:
   - Advanced Backend Development
   - Cloud Computing
-  - Ethical Hacking
+  
 ```
 
 ---
@@ -35,15 +35,15 @@ Currently Learning:
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://instagram.com/YOUR_USERNAME">
+<a href="https://www.instagram.com/osama.abu.samra/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL@gmail.com">
+<a href="mailto:osamaabusamra5@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="https://github.com/YOUR_USERNAME">
+<a href="https://github.com/osamavip/">
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
