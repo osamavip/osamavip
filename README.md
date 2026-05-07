@@ -103,15 +103,6 @@ Currently Learning:
 
 ---
 
-# 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/osamavip/output/snake.svg" />
-
-</div>
-
----
 
 # 👀 Profile Views
 
