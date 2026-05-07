@@ -1,11 +1,8 @@
 <div align="center">
 
-# 👋 Hello World, I'm Osama Abu Samra
+# <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Hey, I'm Osama Abu Samra
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Computer+Systems+Engineering+Student;Front-End+Developer;React+%26+Next.js+Developer;UI%2FUX+Designer;WordPress+Developer" />
-
-<br>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=700&lines=Software+Engineer;Cybersecurity+Enthusiast;Full+Stack+Developer;Always+Learning+New+Things" />
 
 </div>
 
@@ -13,66 +10,85 @@
 
 # 💫 About Me
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-
-🎓 Computer Systems Engineering Student  
-💻 Passionate Front-End Developer  
-🎨 UI/UX Designer using Figma  
-🌍 Based in Palestine 🇵🇸  
-🚀 Building modern web applications & interactive user experiences  
-📰 Working on professional WordPress news websites  
-📚 Always learning new technologies and improving my skills  
-
-### 🔥 Current Focus
-- React.js & Next.js
-- Tailwind CSS
-- WordPress Development
-- API Integration
-- Responsive Web Design
-- Full Stack Development
+```yaml
+Name: Osama Abu Samra
+From: Palestine 🇵🇸
+Role: Software Engineer & Full Stack Developer
+Interests:
+  - Web Development
+  - Cybersecurity
+  - AI Systems
+  - Databases
+  - Problem Solving
+Currently Learning:
+  - Advanced Backend Development
+  - Cloud Computing
+  - Ethical Hacking
+```
 
 ---
 
 # 🌐 Connect With Me
 
-<div align="center">
-
-<a href="https://github.com/osamavip">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<p align="center">
+<a href="https://linkedin.com/in/YOUR_LINK">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="https://linkedin.com/in/YOUR_USERNAME">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://www.instagram.com/osama.abu.samra/">
+<a href="https://instagram.com/YOUR_USERNAME">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
 </a>
 
-<a href="mailto:osamaabusamra5@gmail.com">
+<a href="mailto:YOUR_EMAIL@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-</div>
+<a href="https://github.com/YOUR_USERNAME">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
 ---
+
 # ⚡ Tech Stack
 
 <div align="center">
-## 👨‍💻 Languages
 
-<img src="https://skillicons.dev/icons?i=js,ts,python,java,cpp" />
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,cpp,javascript,typescript,php" />
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,bootstrap,tailwind" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,express,firebase" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
+
+### ☁️ DevOps & Cloud
+
+<img src="https://skillicons.dev/icons?i=docker,aws,git,github,linux" />
+
+### 🛡️ Cybersecurity Tools
+
+<img src="https://skillicons.dev/icons?i=bash,kali,linux" />
+
+</div>
+
 ---
-## 🎨 Front-End
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap" />
---
-## ⚙️ Back-End & Database
+# 📊 GitHub Analytics
 
-<img src="https://skillicons.dev/icons?i=nodejs,mongodb,mysql,postgresql,firebase" />
----
-## 🛠️ Tools & Platforms
+<div align="center">
 
-<img src="https://skillicons.dev/icons?i=git,github,figma,wordpress,vscode,docker" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -82,7 +98,7 @@
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -92,33 +108,47 @@
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
 ---
 
-# 🚀 Featured Projects
+# 📈 Contribution Graph
 
 <div align="center">
 
-| Project | Description | Technologies |
-|----------|-------------|--------------|
-| 📰 News Website | Professional Palestinian news website | WordPress, Bootstrap |
-| 🎨 UI/UX Designs | Modern Figma interfaces & prototypes | Figma |
-| 💹 Forex Prediction App | AI-powered forex prediction system | React, APIs |
-| 🌐 Portfolio Website | Personal responsive portfolio | Next.js, Tailwind |
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
 ---
 
-# 💡 Quote Of The Day
+# 🐍 Contribution Snake
 
 <div align="center">
 
-### *"First, solve the problem. Then, write the code."*  
-— John Johnson
+<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+
+</div>
+
+---
+
+# 👀 Profile Views
+
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+
+</div>
+
+---
+
+# 💻 Favorite Quote
+
+<div align="center">
+
+### “First, solve the problem. Then, write the code.”
 
 </div>
 
@@ -126,8 +156,8 @@
 
 <div align="center">
 
-## 💖 Thanks For Visiting My Profile
+## 🚀 Thanks for visiting my profile
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C2FF,100:6C63FF&height=120&section=footer"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:2563eb&height=120&section=footer"/>
 
 </div>
