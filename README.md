@@ -82,16 +82,22 @@ Currently Learning:
 
 ---
 
-📊 GitHub Analytics
-<div align="center"> <img width="49%" src="https://github-readme-stats.vercel.app/api?username=osamavip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF" /> <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamavip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=FFFFFF" /> </div>
+# 📊 GitHub Analytics
 
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=osamavip&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&icon_color=FF003C&text_color=FFFFFF" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=osamavip&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=FF003C&text_color=FFFFFF" />
+
+</div>
 ---
 
 # 🔥 GitHub Streak
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=tokyonight&hide_border=true&background=0D1117" />
+<img src="https://streak-stats.demolab.com?user=osamavip&theme=tokyonight&hide_border=true&background=0D1117" />
 
 </div>
 
@@ -101,7 +107,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=6" />
+<img src="https://github-profile-trophy.vercel.app/?username=osamavip&theme=tokyonight&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -111,7 +117,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=osamavip&theme=tokyo-night&hide_border=true&bg_color=0D1117" />
 
 </div>
 
@@ -121,7 +127,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/snake.svg" />
+<img src="https://raw.githubusercontent.com/osamavip/output/snake.svg" />
 
 </div>
 
@@ -131,7 +137,7 @@ Currently Learning:
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
+<img src="https://komarev.com/ghpvc/?username=osamavip&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 
 </div>
 
